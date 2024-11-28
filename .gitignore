@@ -1,0 +1,30 @@
+# Node modules
+/node_modules
+
+# Log files
+/logs
+*.log
+
+# Environment variables
+.env
+
+# Temporary/Build files
+/build
+/dist
+/tmp
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test coverage files
+/coverage
+
+# npm debug log files
+npm-debug.log*
